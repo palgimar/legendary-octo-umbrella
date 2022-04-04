@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
+
+/*
+font-family: 'PT Sans', sans-serif;
+font-family: 'PT Serif', serif;
+*/
+
+.container-fluid{
+    width: 90%;/* Minu looming */
+}
+
+
+
+section, div {
+    padding: 5px;/* Minu looming */
+}
+
+
+hr {
+    padding-top: 20px;
+    
+}
+
+h3 { 
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+    margin: 2px; 
+    
+    
+    
+      
+}
+
+
+.col-lg-12-center
+{
+    justify-content: space-around;
+    
+}
+
+
+.box {
+    padding: 10px;/* Minu looming */
+    margin-left: 4px;/* Minu looming*/
+    
+}
+
+.box1 {
+    padding: 10px;/* Minu looming */
+    margin-left: 2px;/* Minu looming */
+    
+}
+
+.kuldne {
+    color:rgb(182, 164, 8);/* Minu looming */
+    padding:5px;/* Minu looming */
+    margin-left: 16px;/* Minu looming */
+    font-weight: bold; /* Minu looming */
+    
+}
+
+.roosa {
+    color:rgb(255, 5, 122);/* Minu looming */
+    padding:5px;/* Minu looming */
+    margin-left: 16px;/* Minu looming */
+    font-weight: bold; /* Minu looming */
+    
+}
+
+.eco {
+    color:rgb(132, 108, 78);/* Minu looming */
+    padding:5px;/* Minu looming */
+    margin-left: 16px;/* Minu looming */
+    font-weight: bold; /* Minu looming */
+    
+}
+
+
+
+p, label, form {
+    font-family: 'PT Serif', serif;
+    font-size: 14px;
+    margin: 2px;
+    
+}
+
+#form {
+   
+    font-family: 'PT Serif', serif;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(236, 236, 236);/* Minu looming */
+    
+     
+    
+}
+
+#input-field label {
+s
+  display: inline-block;
+  width: 115px;
+  text-align: right;
+  
+  
+}
+
+#dropdown {
+    margin-left: 30px;
+    padding: 5px;
+}
+
+.hind {
+    float: right;
+    font-weight: bold; /* Minu looming */
+}
+
+#calc {
+    margin-left: 25px;
+    
+}
+
+#clock {
+    
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-family: 'PT Serif', serif;
+    letter-spacing: 3px;
+    
+}
+
+input[type=submit] {
+    background-color: #008000;
+    color: #FFF;
+    border-radius: 15px;
+    border: none;
+    font-family: 'PT Serif', serif;
+    font-size: 22px;
+    font-weight: 600;
+    padding: 16px 28px;
+    text-decoration: none;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+#map {
+    position: relative;
+    padding: 10%;/* Minu looming */
+    width: 60%;
+   
+    height: 300px;/* Minu looming */
+    margin: auto;
+   
+}
